@@ -7,3 +7,6 @@
 [submodule "learning-cxx"]
 	path = learning-cxx
 	url = git@github.com:yuanzhixiang1996/learning-cxx.git
+[submodule "learning-lm-rs"]
+	path = learning-lm-rs
+	url = git@github.com:yuanzhixiang1996/learning-lm-rs.git
